@@ -1,0 +1,14 @@
+.image-icon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+  width: 50px;
+  margin-right: 2px;
+}
+.image-item {
+  border: none;
+  background-color: transparent;
+  outline: none;
+  cursor: pointer;
+}
